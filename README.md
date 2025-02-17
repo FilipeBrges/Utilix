@@ -13,7 +13,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **apachei.poi**
 - **SQLite**
 
-```
 
 ## 🔧 Como configurar e rodar o projeto
 
@@ -38,7 +37,7 @@ git clone https://github.com/FilipeBrges/Utilix.git
 1. Conecte um dispositivo Android ou inicie um emulador.
 2. Clique no botão **Run** (▶️) no Android Studio.
 
-🛠 Funcionalidades principais
+## 🛠 Funcionalidades principais
 
 📌 Autenticação de usuário: Tela de login onde o usuário pode acessar sua conta usando e-mail e senha. Caso não tenha uma conta, é possível criar uma nova clicando em "Signup".
 
@@ -49,7 +48,7 @@ git clone https://github.com/FilipeBrges/Utilix.git
 📌 Navegação entre telas: Em qualquer momento, o usuário pode retornar às telas anteriores da aplicação.
 
 
-⚙️ Funcionalidades pré-estabelecidas
+## ⚙️ Funcionalidades pré-estabelecidas
 
 📌 Definição do contexto: O contexto da aplicação será definido pelo grupo responsável pelo desenvolvimento.
 
